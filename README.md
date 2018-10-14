@@ -1,4 +1,4 @@
-# 🎃 HacktoberFest Starter Project 🎃
+﻿# 🎃 HacktoberFest Starter Project 🎃
 
 ** __Oct 24th Update:__ THIS REPO IS TEMPORARILY __NOT MERGING NEW PRs__ until the CONTRIBUTORS.md file is sorted! Thanks for your patience! **
 
@@ -56,10 +56,10 @@ git push origin branch-name
 Add your name to the `CONTRIBUTORS.md` file using the below convention:
 
 ```markdown
-#### Name: [YOUR NAME](GitHub link)
-- Place: City, State, Country
+#### Name: Ayushi Khandelwal(https://github.com/ayushikhandelwal99/)
+- Place: Jaipur, Rajasthan, India
 - Bio: Who are you?
-- GitHub: [GitHub account name](GitHub link)
+- GitHub: [ayushikhandelwal99](https://github.com/ayushikhandelwal99/)
 ```
 
 ### 2. Add a profile page
